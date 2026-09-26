@@ -1,0 +1,6 @@
+{
+  "name": "555",
+  "description": "Live trading scan monitor for Chartink with chronological first-appearance tracking and real-time prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
